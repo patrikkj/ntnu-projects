@@ -22,3 +22,7 @@
 	path = tdt4305 (Private)
 	url = https://github.com/patrikkj/tdt4305.git
 	branch = master
+[submodule "tdt4160"]
+	path = tdt4160
+	url = https://github.com/patrikkj/tdt4160.git
+	branch = master
