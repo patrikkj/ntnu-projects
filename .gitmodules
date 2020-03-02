@@ -6,3 +6,7 @@
 	path = tdt4145
 	url = https://github.com/patrikkj/tdt4145.git
 	branch = master
+[submodule "tdt4140"]
+	path = tdt4140
+	url = https://github.com/patrikkj/blackbird.git
+	branch = master
