@@ -11,7 +11,7 @@
 	url = https://github.com/patrikkj/blackbird.git
 	branch = master
 [submodule "tdt4100"]
-	path = tdt4100 (Private)
+	path = tdt4100
 	url = https://github.com/patrikkj/tdt4100.git
 	branch = master
 [submodule "tdt4136"]
@@ -25,4 +25,12 @@
 [submodule "tdt4160"]
 	path = tdt4160
 	url = https://github.com/patrikkj/tdt4160.git
+	branch = master
+[submodule "wolfram-beta"]
+	path = tfy4125
+	url = https://github.com/patrikkj/wolfram-beta.git
+	branch = master
+[submodule "tfy4125"]
+	path = tfy4125
+	url = https://github.com/patrikkj/tfy4125.git
 	branch = master
