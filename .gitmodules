@@ -1,0 +1,4 @@
+[submodule "tdt4120"]
+	path = tdt4120 (Private)
+	url = https://github.com/patrikkj/tdt4120.git
+	branch = master
