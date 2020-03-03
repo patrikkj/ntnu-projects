@@ -31,3 +31,7 @@
 	path = tfy4125
 	url = https://github.com/patrikkj/tfy4125.git
 	branch = master
+[submodule "tdt4300"]
+	path = tdt4300 (Private)
+	url = https://github.com/patrikkj/tdt4300.git
+	branch = master
