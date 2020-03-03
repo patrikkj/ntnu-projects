@@ -35,3 +35,7 @@
 	path = tdt4300 (Private)
 	url = https://github.com/patrikkj/tdt4300.git
 	branch = master
+[submodule "tma4135"]
+	path = tma4135
+	url = https://github.com/patrikkj/tma4135.git
+	branch = master
